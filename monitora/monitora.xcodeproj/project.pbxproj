@@ -156,6 +156,7 @@
 		8A52BD6C1A5227D7009F76A9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Gamfig Corp";
 				TargetAttributes = {
@@ -407,6 +408,7 @@
 				8A52BD951A5227D8009F76A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A52BD961A5227D8009F76A9 /* Build configuration list for PBXNativeTarget "monitoraTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +417,7 @@
 				8A52BD981A5227D8009F76A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
